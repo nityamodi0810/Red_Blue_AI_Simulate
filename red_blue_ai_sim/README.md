@@ -6,7 +6,7 @@ This project simulates a cybersecurity scenario where a Red Team (attacker) and 
 
 # Project Structure
 
-```
+
 red_blue_ai_sim/
 ├── src/
 │   ├── red_team_agent.py       # Offensive AI logic (e.g., scanning, exploit strategies)
@@ -36,17 +36,17 @@ red_blue_ai_sim/
 
 ## How to Run
 
-1. **Clone the repository**:
+1. Clone the repository:
 
 git clone https://github.com/nityamodi0810/Red_Blue_AI_Simulate
 cd red_blue_ai_sim
 
 
-2. **Install dependencies**:
+2. Install dependencies:
 pip install -r requirements.txt
 
 
-3. **Run the simulation**:
+3. Run the simulation:
 
 python src/simulate.py
 
