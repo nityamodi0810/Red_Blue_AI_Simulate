@@ -5,8 +5,7 @@ This project simulates a cybersecurity scenario where a Red Team (attacker) and 
 ---
 
 # Project Structure
-
-
+```
 red_blue_ai_sim/
 ├── src/
 │   ├── red_team_agent.py       # Offensive AI logic (e.g., scanning, exploit strategies)
@@ -22,7 +21,7 @@ red_blue_ai_sim/
 │   └── research_paper.pdf      # Final research paper
 ├── presentation/
 │   └── presentation.pdf        # Final presentation slides
-
+```
 
 ---
 
