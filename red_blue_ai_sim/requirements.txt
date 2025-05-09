@@ -1,0 +1,9 @@
+# Minimum Python version
+python_version >= "3.8"
+
+#Built-in libraries used 
+-random
+-os
+-sys
+
+#No external libraries used
