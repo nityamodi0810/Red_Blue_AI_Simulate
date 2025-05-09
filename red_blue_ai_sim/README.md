@@ -37,20 +37,18 @@ red_blue_ai_sim/
 ## How to Run
 
 1. **Clone the repository**:
-```bash
+
 git clone https://github.com/nityamodi0810/Red_Blue_AI_Simulate
 cd red_blue_ai_sim
-```
+
 
 2. **Install dependencies**:
-```bash
 pip install -r requirements.txt
-```
+
 
 3. **Run the simulation**:
-```bash
+
 python src/simulate.py
-```
 
 ---
 
